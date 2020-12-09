@@ -70,7 +70,7 @@ sudo apt-get install python3 python3-pip git screen
 
 git clone https://github.com/n8acl/aprsnotify.git
 
-cd /aprsnotify
+cd aprsnotify
 
 pip3 install -r requirements.txt
 
